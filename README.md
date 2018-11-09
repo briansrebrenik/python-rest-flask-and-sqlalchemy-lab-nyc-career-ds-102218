@@ -130,3 +130,4 @@ Since we are dealing with a has many / belongs to relationship we will want to d
 ## Summary
 
 In this lab, first we connected the flask_sqlalchemy module to our app and seeded our database with some users and tweets. Then, we practiced designing a RESTful API that returns JSON data for our new Users and Tweets. In the bonus section, we went further and defined routes that would return information specific to the relationship between a Tweet and a User and vice versa. By creating an API like so, we can see that it becomes much easier to leverage information across other applications as well as our own.
+# Flatiron-Project1
